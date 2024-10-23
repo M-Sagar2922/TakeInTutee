@@ -1,0 +1,12 @@
+[{
+  "teacherId": "1",
+  "firstName": "name",
+  "lastName" : "description",
+  "emailId": "Amsterdam",
+  "age" : 23,
+  "gender" : "Male",
+  "mobileNumber": "982034709789",
+  "YearOfExperience": 3,
+  "subject": "Java",
+  "qualification" : "B.E"
+}]
